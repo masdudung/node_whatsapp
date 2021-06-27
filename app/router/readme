@@ -1,0 +1,3 @@
+file name will used for url
+ex : Api.js will produce http://example.com/api
+ex : Api Lala.js will produce http://example.com/api-lala

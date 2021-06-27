@@ -1,0 +1,22 @@
+{
+  "name": "WHATSAPP API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moch Mufiddin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-validator": "^6.12.0",
+    "glob": "^7.1.7",
+    "mysql": "^2.18.1",
+    "qrcode": "^1.4.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.12.6"
+  }
+}
